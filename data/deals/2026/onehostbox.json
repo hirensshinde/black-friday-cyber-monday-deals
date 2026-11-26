@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OneHostBox",
+  "url": "https://onehostbox.com/pricing/?utm_source=ctrlfriday&utm_medium=deal-list&utm_campaign=bf2026",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Hosting for static sites and frontend apps from GitHub, GitLab or Bitbucket, with pull request previews, custom domains, forms and unlimited team members on Pro.",
+  "offer": "40% off the first 3 months of monthly plans (Starter $9 to $5.40, Pro $19 to $11.40) or the first year of yearly plans, no code needed, new customers",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026 (UTC)",
+  "latest": true
+}
